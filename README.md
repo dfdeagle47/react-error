@@ -1,7 +1,7 @@
 # react-error
 
 An error occurs with react/react-router when changing routes too many times.
-The exception is thrown in react/lib/DOMChildrenOperations.js:41 after a while because childNode is null in:
+The exception is thrown in react/lib/DOMChildrenOperations.js:41 after a while because childNode is `undefined` in:
 ```
 parentNode.insertBefore(childNode, beforeChild);
 ```
