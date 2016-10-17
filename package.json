@@ -1,0 +1,31 @@
+{
+  "name": "react-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfdeagle47/react-error.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfdeagle47/react-error/issues"
+  },
+  "homepage": "https://github.com/dfdeagle47/react-error#readme",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "react-router": "2.8.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
