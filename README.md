@@ -21,3 +21,7 @@ This issue occurs after a high number of iterations (2000+) in this example. How
   - Version: 1607
   - OS Build: 14946.1000
   - System type: 64-bit operating system, x64-based processor
+- Packages:
+  - react@0.14.8
+  - react-dom@0.14.8
+  - react-router@2.8.1
